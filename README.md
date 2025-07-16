@@ -137,3 +137,17 @@ To run the chatbot:
 
 5. Start interacting with the chatbot using text input
 
+---
+
+# output 
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/37772699-adbf-496f-8a83-6f909917f42d" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e56282b2-be7e-4e4b-89ec-726bc50643fc" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/325ed030-fa60-4e8f-8df9-34cd0e05c39b" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b4834fac-0241-4b30-8882-e40fc08decd4" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/744748ed-2768-4797-90ec-0604d71f442e" />
+
